@@ -46,7 +46,7 @@ $ python lyricsync.py
 ===========================================
 
 Enter Song Name: Tum Ho Toh
-<img width="1289" height="705" alt="image" src="https://github.com/user-attachments/assets/423fb6ed-d19b-4761-90a0-96102fe2a3b1" />
+<img width="1289" height="705" alt="image" src="https://github.com/user-attachments/assets/a898a866-a125-4679-8718-41321e133607" />
 
 
 
