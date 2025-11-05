@@ -1,0 +1,2 @@
+# LyricSync-Terminal
+LyricSync Terminal
