@@ -46,19 +46,19 @@ $ python lyricsync.py
 ===========================================
 
 Enter Song Name: Tum Ho Toh
+<img width="1289" height="705" alt="image" src="https://github.com/user-attachments/assets/423fb6ed-d19b-4761-90a0-96102fe2a3b1" />
 
 
-<img width="1289" height="705" alt="image" src="https://github.com/user-attachments/assets/12fbff15-7609-4b81-b62c-bd8668ac0b57" />
 
-#🧠 Configuration
 
-You can easily change the display speed in the code:DISPLAY_SPEED = 0.35  # Lower = faster, Higher = slower
-📦 Installation
-git clone https://github.com/parvendrakumar/lyricsync-terminal.git
-cd lyricsync-terminal
-pip install -r requirements.txt
-python lyricsync.py
-🛠️ Future Plans
+## 🧠 Configuration
+
+You can easily change the display speed in the code:
+
+```python
+DISPLAY_SPEED = 0.35  # Lower = faster, Higher = slower
+
+## 🛠️ Future Plans
 
 🎚️ Beat-based auto-sync
 
@@ -67,11 +67,11 @@ python lyricsync.py
 🔊 Background music playback
 
 🎙️ Voice-command song search
-📜 License
+##  📜 License
 
 This project is licensed under the MIT License — free for use, modification, and sharing.
 
-💬 Author
+##  💬 Author
 
 Developed with ❤️ by @erbloggerboy
 
